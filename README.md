@@ -1,6 +1,8 @@
-# EssentialsPractice
+# Calculadora de Inversion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+
+![calculadora1](https://github.com/user-attachments/assets/05f05b7e-f0d1-4fa5-9a9c-c69409c812bd)
 
 ## Development server
 
